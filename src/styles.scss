@@ -22,7 +22,6 @@ footer {
     display: flex;
     justify-content: center;
     align-items: center;
-    margin-top: 2rem;
     padding: 1rem;
     box-sizing: inherit;
     position: relative;
@@ -90,12 +89,6 @@ pre {
 
 a {
     color: $orange;
-    text-decoration: none;
-}
-
-.sub-title {
-    font-weight: 500;
-    font-size: 18px;
 }
 
 .text-center {

@@ -5,7 +5,7 @@
         <span class="tooltip-text">{{data.tooltip}}</span>
     </div>
     <div class="amount-list flex-grow-1">
-        <div class="sub-title">Това се равнява на</div>
+        <h3>Това се равнява на</h3>
         <ul>
             <li *ngFor="let item of data.calculatedItems">
                 <strong>{{item.amount | number}} {{item.currency}}</strong>
@@ -15,4 +15,7 @@
     </div>
 </div>
 
-<div class="widget-description" [innerHTML]="data.description"></div>
+<div class="widget-description">
+    <p *ngFor="let item of data.description" [innerHTML]="item"></p>
+    <!-- <a href="{{data.source}}" target="_blank">Източник</a> -->
+</div>

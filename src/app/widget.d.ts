@@ -1,7 +1,7 @@
 export interface IWidgetPanel {
     title: string;
     tooltip: string;
-    description: string;
+    description: string[];
     amount: number; // calculated, unless static (amountPerDay = 0)
     amountPerDay: number; // 0 if static
     currency: string;
