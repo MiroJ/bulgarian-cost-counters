@@ -14,4 +14,5 @@ export interface IWidgetCalculatedItem {
     currency: string;
     description: string;
     costPerItem: number;
+    itemCount: number;
 };
