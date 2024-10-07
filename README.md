@@ -24,12 +24,10 @@
 
     npm install -g angular-cli-ghpages
 
-За да публикувате този проект в GitHub Pages, използвайте клона `gh-pages` по следния начин:
+За да публикувате този проект в GitHub Pages, изпълнете следните команди:
 
-    git checkout -b gh-pages
-    git push origin gh-pages
-    ng build --prod --base-href https://miroj.github.io/bulgarian-cost-counters/
-    ngh --dir=dist/bulgarian-cost-counters/browser
+    ng build  --base-href https://miroj.github.io/bulgarian-cost-counters/
+    npx angular-cli-ghpages --dir=dist/bulgarian-cost-counters/browser
 
 След няколко секунди, апликацията трябва да е инсталирана на https://miroj.github.io/bulgarian-cost-counters/.
 
