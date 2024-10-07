@@ -1,3 +1,5 @@
+@import "variables";
+
 .d-flex {
     display: flex !important;
 }
@@ -8,4 +10,12 @@
 
 .align-items-start {
     align-items: flex-start !important;
+}
+
+.text-center {
+    text-align: center;
+}
+
+.text-primary {
+    color: $orange !important;
 }
