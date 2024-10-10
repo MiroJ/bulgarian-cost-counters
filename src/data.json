@@ -38,9 +38,9 @@
         "itemCount": 6519789
       },
       {
-        "currency": "милиона евро",
+        "currency": "EUR",
         "description": "",
-        "costPerItem": 1955830,
+        "costPerItem": 1.95583,
         "itemCount": 0
       }
     ]
@@ -78,9 +78,9 @@
         "itemCount": 6519789
       },
       {
-        "currency": "милиона евро",
+        "currency": "EUR",
         "description": "",
-        "costPerItem": 1955830,
+        "costPerItem": 1.95583,
         "itemCount": 0
       }
     ]
@@ -118,9 +118,9 @@
         "itemCount": 6519789
       },
       {
-        "currency": "милиона евро",
+        "currency": "EUR",
         "description": "",
-        "costPerItem": 1955830,
+        "costPerItem": 1.95583,
         "itemCount": 0
       }
     ]
@@ -160,9 +160,9 @@
         "itemCount": 6519789
       },
       {
-        "currency": "милиона евро",
+        "currency": "EUR",
         "description": "",
-        "costPerItem": 1955830,
+        "costPerItem": 1.95583,
         "itemCount": 0
       }
     ]
