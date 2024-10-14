@@ -1,3 +1,4 @@
+<h2>{{ data.title }}</h2>
 <div class="d-flex align-items-start flex-wrap">
     <div class="counter hover-text">
         <strong>{{data.amount | number}}</strong>
@@ -5,7 +6,7 @@
         <span class="tooltip-text">{{data.tooltip}}</span>
     </div>
     <div class="amount-list flex-grow-1">
-        <h3>Това се равнява на</h3>
+        <h3 [hidden]="isCollapsed">Това се равнява на</h3>
         <ul>
             <li *ngFor="let item of data.calculatedItems">
                 <strong>{{item.amount | number}} {{item.currency}}</strong>
@@ -15,7 +16,7 @@
     </div>
 </div>
 
-<div class="widget-description">
+<div class="widget-description fade-in" [hidden]="isCollapsed">
     <p *ngFor="let item of data.description" [innerHTML]="item"></p>
     <!-- <a href="{{data.source}}" target="_blank">Източник</a> -->
 </div>

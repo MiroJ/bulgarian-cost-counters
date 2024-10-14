@@ -10,6 +10,7 @@ import { IWidgetPanel } from '../widget';
 })
 export class WidgetPanelComponent implements OnInit {
     @Input() data!: IWidgetPanel;
+    @Input() isCollapsed = false;
 
     ngOnInit(): void {
         if (this.data.startDate) {

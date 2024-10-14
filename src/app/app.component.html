@@ -19,8 +19,7 @@
         </p>
 
         <div *ngFor="let item of widgets">
-            <h2>{{ item.title }}</h2>
-            <app-widget-panel [data]="item"></app-widget-panel>
+            <app-widget-panel [data]="item" [isCollapsed]="false"></app-widget-panel>
         </div>
     </div>
 </main>
