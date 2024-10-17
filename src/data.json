@@ -13,8 +13,8 @@
     "startDate": "2023-01-01",
     "calculatedItems": [
       {
-        "currency": "лева",
-        "description": "безплатни лекарства за сърдечно-съдови заболявания",
+        "currency": "безплатни лекарства",
+        "description": "за сърдечно-съдови заболявания",
         "costPerItem": 17.5,
         "itemCount": 0
       },
