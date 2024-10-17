@@ -111,7 +111,7 @@ a {
         visibility: hidden;
         width: fit-content;
         max-width: 300px;
-        background-color: #7c1d05;
+        background-color: $red;
         border-radius: 8px;
         box-shadow: 4px 4px 10px #888;
         color: #fff;
@@ -119,7 +119,7 @@ a {
         padding: 5px 10px;
         position: absolute;
         z-index: 1;
-        bottom: 125%;
+        top: 100%;
         left: 50%;
         margin-left: -130px;
         opacity: 0;
