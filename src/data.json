@@ -7,8 +7,15 @@
         "До сега, България не внася никакви количества по тръбите. Неустойките за разтрогването на този договор са равностойността на <a href='https://frognews.bg/files/57_aismo_na_al_aalinov_do_a_alateva_s_prilozheno_ap_240411_105723.pdf' target='_blank'>целия договор</a> до 31 декември 2035 г. <a href='https://frognews.bg/files/57_aismo_na_al_aalinov_do_a_alateva_s_prilozheno_ap_240411_105723.pdf' target='_blank'>(FrogNews.bg, 2024)</a>",
         "Защо тогава е подписан с такива неизгодни условия и такава продължителност?"
     ],
+    "references": [
+        "https://www.botas.gov.tr/pages/turkstream/395",
+        "https://dariknews.bg/novini/bylgariia/koj-e-rosen-hristov-sluzheben-ministyr-na-energetikata-2319653",
+        "https://www.dnevnik.bg/politika/2024/04/05/4610466_koi_e_vladimir_malinov_predlojen_za_ministur_na/",
+        "https://frognews.bg/files/57_aismo_na_al_aalinov_do_a_alateva_s_prilozheno_ap_240411_105723.pdf",
+        "https://buy-huy.com/"
+    ],
     "amount": 0,
-    "amountPerDay": 889879.14,
+    "amountPerDay": 965464.02,
     "currency": "лева",
     "startDate": "2023-01-01",
     "calculatedItems": [
@@ -53,6 +60,11 @@
         "Условие за получаване на средствата по този план до 30 септември 2024 беше България <a href=\"https://www.bgonair.bg/a/2-bulgaria/343001-gubim-13-mlrd-lv-ako-ns-ne-prieme-speshno-4-zakonodatelni-merki-po-pvu\" target=\"_blank\"> да приеме четири закона</a>, един от които е Закон за защита на лицата, подаващи сигнали за нарушения.",
         "В 49-тото Народно Събрание ГЕРБ и ДПС включиха клауза, която ограничава действието на защитата за казуси преди 2021 г. Цел на ГЕРБ и ДПС е изключването на периода на тяхното управление. Проектът е върнат от Европейската Комисия заради тази дискриминационна клауза и парите по плана бяха замразени. ГЕРБ и ДПС, като партиите притежаващи мнозинство в Народното Събрание трябваше да премахнат ограничението в годините, което те саботираха."
     ],
+    "references":[
+        "https://www.mlsp.government.bg/natsionalen-plan-za-vzstanovyavane",
+        "https://nova.bg/news/view/2024/10/08/472759/%D0%BF%D0%B0%D1%80%D0%B8%D1%82%D0%B5-%D0%BF%D0%BE-%D0%BF%D0%BB%D0%B0%D0%BD%D0%B0-%D0%B7%D0%B0-%D0%B2%D1%8A%D0%B7%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D1%8F%D0%B2%D0%B0%D0%BD%D0%B5-%D0%B8-%D1%83%D1%81%D1%82%D0%BE%D0%B9%D1%87%D0%B8%D0%B2%D0%BE%D1%81%D1%82-%D0%BA%D0%BE%D0%BB%D0%BA%D0%BE-%D1%81%D1%80%D0%B5%D0%B4%D1%81%D1%82%D0%B2%D0%B0-%D0%BC%D0%BE%D0%B6%D0%B5-%D0%B4%D0%B0-%D0%B8%D0%B7%D0%B3%D1%83%D0%B1%D0%B8%D0%BC",
+        "https://www.bgonair.bg/a/2-bulgaria/343001-gubim-13-mlrd-lv-ako-ns-ne-prieme-speshno-4-zakonodatelni-merki-po-pvu"
+    ],
     "amount": 1400000000,
     "amountPerDay": 0,
     "currency": "лева",
@@ -89,9 +101,14 @@
     "title": "Изхарчени пари от Бойко Борисов по \"Турски поток\"",
     "tooltip": "Платена сума за изграждането на \"Турски поток\"",
     "description": [
-        "Националният бюджет, което всъчност са пари от джоба на всеки българин, е използван за изграждането на \"Турски поток\". Въпреки твърденията на Бойко Борисов, че <a href=\"https://www.svobodnaevropa.bg/a/31306667.html\" target=\"_blank\">това е добра инвестиция</a>, от самото начало е ясно че <b>проектът е нерентабилен</b>.",
-        "\"Турски поток\" е изграден и работи, <a href=\"https://turkstream.exposed/bg\" target=\"_blank\"> обслужвайки само външната политика на Русия и Турция </a>, а не на България. Той служи за две цели - осигуряване на транспорт на руски газ към Европа и скрити комисионните за избрани хора. Ние <a href=\"https://www.svobodnaevropa.bg/a/31306667.html#:~:text=%D1%82%D1%80%D0%B8%20%D1%81%D0%B5%D1%80%D0%B8%D0%BE%D0%B7%D0%BD%D0%B8%20%D0%BF%D1%80%D0%BE%D0%B1%D0%BB%D0%B5%D0%BC%D0%B0\" target=\"_blank\">не получаваме обещаните комисионни</a>, а Европа се опитва да намали зависимостта си от руския газ, което означава че обемите ще намаляват и дори спрат.",
-        "Защо сме платили такава грандиозна сума за поток, който не служи на България, а всъщност я лимитира да трябва да използва газ само от един доставчик?"
+      "Националният бюджет, което всъчност са пари от джоба на всеки българин, е използван за изграждането на \"Турски поток\". Въпреки твърденията на Бойко Борисов, че <a href=\"https://www.svobodnaevropa.bg/a/31306667.html\" target=\"_blank\">това е добра инвестиция</a>, от самото начало е ясно че <b>проектът е нерентабилен</b>.",
+      "\"Турски поток\" е изграден и работи, <a href=\"https://turkstream.exposed/bg\" target=\"_blank\"> обслужвайки само външната политика на Русия и Турция </a>, а не на България. Той служи за две цели - осигуряване на транспорт на руски газ към Европа и скрити комисионните за избрани хора. Ние <a href=\"https://www.svobodnaevropa.bg/a/31306667.html#:~:text=%D1%82%D1%80%D0%B8%20%D1%81%D0%B5%D1%80%D0%B8%D0%BE%D0%B7%D0%BD%D0%B8%20%D0%BF%D1%80%D0%BE%D0%B1%D0%BB%D0%B5%D0%BC%D0%B0\" target=\"_blank\">не получаваме обещаните комисионни</a>, а Европа се опитва да намали зависимостта си от руския газ, което означава че обемите ще намаляват и дори спрат.",
+      "Защо сме платили такава грандиозна сума за поток, който не служи на България, а всъщност я лимитира да трябва да използва газ само от един доставчик?"
+    ],
+    "references": [
+        "https://www.svobodnaevropa.bg/a/31306667.html",
+        "https://www.svobodnaevropa.bg/a/31306667.html#:~:text=%D1%82%D1%80%D0%B8%20%D1%81%D0%B5%D1%80%D0%B8%D0%BE%D0%B7%D0%BD%D0%B8%20%D0%BF%D1%80%D0%BE%D0%B1%D0%BB%D0%B5%D0%BC%D0%B0",
+        "https://turkstream.exposed/bg"
     ],
     "amount": 3000000000,
     "amountPerDay": 0,
@@ -128,7 +145,14 @@
   {
     "title": "План REPowerEU заради саботаж на ИТН и Възраждане",
     "tooltip": "Пропусната сума по плана на Европейския съюз REPowerEU",
-    "description": ["В последния работен ден на Народното събрание (26 септември 2024), народните представители на ИТН и Възраждане, с помощта на Делян Пеевски (ДПС - Ново начало) и Рая Назарян (ГЕРБ), <a href=\"https://www.dnevnik.bg/politika/2024/09/26/4681199_budeshteto_na_vuglishtnite_centrali_dovede_do/860d1d25b9ce770486b4fb9529ddf17d/\" target=\"_blank\">блокираха подиума и провалиха работата на парламента</a>. Това попречи на приемането на изключително важно решение, което щеше да освободи <a href=\"https://www.mi.government.bg/news/balgariya-sthe-poluchi-nad-480-mln-evro-ot-plana-repowereu-za-nova-energijna-infrastruktura/\" target=\"_blank\">479 милиона Euro безвъзмездна сума</a> от ЕС по <a href=\"https://commission.europa.eu/strategy-and-policy/priorities-2019-2024/european-green-deal/repowereu-affordable-secure-and-sustainable-energy-europe_en?prefLang=bg\" target=\"_blank\">програмата REPowerEU</a>."],
+    "description": [
+      "В последния работен ден на Народното събрание (26 септември 2024), народните представители на ИТН и Възраждане, с помощта на Делян Пеевски (ДПС - Ново начало) и Рая Назарян (ГЕРБ), <a href=\"https://www.dnevnik.bg/politika/2024/09/26/4681199_budeshteto_na_vuglishtnite_centrali_dovede_do/860d1d25b9ce770486b4fb9529ddf17d/\" target=\"_blank\">блокираха подиума и провалиха работата на парламента</a>. Това попречи на приемането на изключително важно решение, което щеше да освободи <a href=\"https://www.mi.government.bg/news/balgariya-sthe-poluchi-nad-480-mln-evro-ot-plana-repowereu-za-nova-energijna-infrastruktura/\" target=\"_blank\">479 милиона Euro безвъзмездна сума</a> от ЕС по <a href=\"https://commission.europa.eu/strategy-and-policy/priorities-2019-2024/european-green-deal/repowereu-affordable-secure-and-sustainable-energy-europe_en?prefLang=bg\" target=\"_blank\">програмата REPowerEU</a>."
+    ],
+    "references": [
+        "https://www.dnevnik.bg/politika/2024/09/26/4681199_budeshteto_na_vuglishtnite_centrali_dovede_do/860d1d25b9ce770486b4fb9529ddf17d",
+        "https://www.mi.government.bg/news/balgariya-sthe-poluchi-nad-480-mln-evro-ot-plana-repowereu-za-nova-energijna-infrastruktura/",
+        "https://commission.europa.eu/strategy-and-policy/priorities-2019-2024/european-green-deal/repowereu-affordable-secure-and-sustainable-energy-europe_en?prefLang=bg"
+    ],
     "amount": 936842570,
     "amountPerDay": 0,
     "currency": "лева",
