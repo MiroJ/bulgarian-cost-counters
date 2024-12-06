@@ -12,6 +12,8 @@ export class WidgetPanelComponent implements OnInit {
     @Input() data!: IWidgetPanel;
     @Input() isCollapsed = false;
 
+    public expanded = false;
+
     ngOnInit(): void {
         if (this.data.startDate) {
             this.data.startDate = new Date(this.data.startDate);

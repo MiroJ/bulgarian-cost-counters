@@ -18,5 +18,13 @@
 
 <div class="widget-description fade-in" [hidden]="isCollapsed">
     <p *ngFor="let item of data.description" [innerHTML]="item"></p>
-    <!-- <a href="{{data.source}}" target="_blank">Източник</a> -->
+</div>
+<div *ngIf="!expanded" class="clickable" style="margin-bottom: 4px;" (click)="expanded = !expanded">
+    Виж източниците на повече информация
+</div>
+<div [hidden]="!expanded">
+    <h3>Източници</h3>
+    <div *ngFor="let r of data.references" class="no-wrap" style="font-size: 0.825rem;">
+        - <a href="{{r}}" target="_blank" class="ellipsis">{{r}}</a>
+    </div>
 </div>

@@ -7,6 +7,7 @@ export interface IWidgetPanel {
     currency: string;
     startDate: Date;
     calculatedItems: IWidgetCalculatedItem[];
+    references: string[];
 }
 
 export interface IWidgetCalculatedItem {
