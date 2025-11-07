@@ -1,21 +1,78 @@
 [
   {
+    "title": "Осъждания срещу прокуратурата в Европейския съд по правата на човека",
+    "tooltip": "Сумата която България е платила след осъждания на Прокурата в Европейския съд по правата на човека",
+    "description": [
+      "Всяка година България бива осъждана от <a href=\"https://www.echr.coe.int/Pages/home.aspx?p=home\" target=\"_blank\">Европейския съд по правата на човека</a> заради нарушения на основни човешки права от страна на прокуратурата и съдебната система. Това са пари които отиват директно от джоба на всеки българин, заради несправедливи процеси, липса на справедливост и корупция в съдебната система.",
+      "За последните 5 години, България е била осъдена над 30 пъти, като общата сума на наложените глоби надхвърля 3,8 милиона лева. За съжаление, това не включва случаите които все още са в процес на разглеждане или са били уредени извън съда. Случаи като този на кмета на Варна Благомир Коцев също ще добави към тази сума в бъдеще.",
+      "<a href=\"https://pris.government.bg/search/quick?searchText=%D0%9E%D0%91%D0%95%D0%97%D0%A9%D0%95%D0%A2%D0%95%D0%9D%D0%98%D0%AF%D0%A2%D0%90\" target=\"_blank\">Списък с актуалните решения на Министерския съвет</a> по изпълнение на решения показва множество от тези решения с точните суми с конкретните детайли.",
+      "Най-честите нарушения са свързани с правото на справедлив процес, правото на личен живот и забрана на нечовешко или унизително отношение. Тези осъждания не само вредят на репутацията на България, но и водят до значителни финансови загуби за държавата.",
+      "Защо прокуратурата и съдебната система продължават да допускат тези нарушения, които струват скъпо на всички нас?"
+    ],
+    "references": [
+      "https://www.dnevnik.bg/bulgaria/2001/04/26/21249_dela_zaradi_mrusni_aresti_zaplashvat_bulgariia/",
+      "https://www.dnevnik.bg/bulgaria/2017/02/20/2921051_prokuraturata_e_izplatila_nad_7_mln_lv_obezshteteniia/",
+      "https://news.bg/crime/plashtame-140-hilyadi-leva-po-4-prisadi-na-evropeyskiya-sad-po-pravata-na-choveka.html",
+      "https://bgnovinite.bg/2023/08/17/izplashtane-na-obezshtetenia-po-reshenia-na-evropeiski-sud-po-pravata-na-shoveka/",
+      "https://news.lex.bg/pregled-na-pechata/%d0%b1%d1%8a%d0%bb%d0%b3%d0%b0%d1%80%d0%b8%d1%8f-%d0%bf%d0%bb%d0%b0%d1%89%d0%b0-%d0%bd%d0%b0%d0%b4-87-000-%d0%bb%d0%b2-%d0%bf%d0%be-%d0%bf%d1%80%d0%b8%d1%81%d1%8a%d0%b4%d0%b8-%d0%bd%d0%b0-%d1%81/",
+      "https://pris.government.bg/document/53c2397e8f805ad25fa7fa41f03c3d2c",
+      "https://pris.government.bg/document/53c2397e8f805ad25fa7fa41f03c3d2c/f08c02d28261a559bf1fbde87a978779"
+    ],
+    "amount": 0,
+    "amountPerDay": 1743.37899543379,
+    "currency": "лева",
+    "startDate": "2019-01-01",
+    "calculatedItems": [
+      {
+        "currency": "безплатни лекарства",
+        "description": "за сърдечно-съдови заболявания",
+        "costPerItem": 17.5,
+        "itemCount": 0
+      },
+      {
+        "currency": "кв.м.",
+        "description": "нови тротоари",
+        "costPerItem": 37,
+        "itemCount": 0
+      },
+      {
+        "currency": "лева",
+        "description": "за половин милион пенсионери на минимална пенсия",
+        "costPerItem": 0,
+        "itemCount": 500000
+      },
+      {
+        "amount": 0,
+        "currency": "лева",
+        "description": "от джоба на всеки българин (дете, възрастен, баба и дядо)",
+        "costPerItem": 0,
+        "itemCount": 6519789
+      },
+      {
+        "currency": "EUR",
+        "description": "",
+        "costPerItem": 1.95583,
+        "itemCount": 0
+      }
+    ]
+  },
+  {
     "title": "Договор на Румен Радев с Боташ",
     "tooltip": "Сумата която България е платила по договора с Боташ до този момент",
     "description": [
-        "Договорът с <a href=\"https://www.botas.gov.tr/pages/turkstream/395\" target=\"_blank\">\"Боташ\" (BOTAŞ)</a>, е подписан от кабинета на Румен Радев, посредством служебния министър на енергетиката <a href=\"https://dariknews.bg/novini/bylgariia/koj-e-rosen-hristov-sluzheben-ministyr-na-energetikata-2319653\" target=\"_blank\">Росен Христов</a> и главното действащо лице в проекта <a href=\"https://www.dnevnik.bg/politika/2024/04/05/4610466_koi_e_vladimir_malinov_predlojen_za_ministur_na/\" target=\"_blank\">Владимир Малинов</a>. Условията ни принуждават от 1 януари 2023 г. да заплащаме по повече от <b>890 хиляди лева всеки ден</b> за възможност за доставки на течен природен газ, независимо дали използваме тръбата.",
-        "До сега, България не внася никакви количества по тръбите. Неустойките за разтрогването на този договор са равностойността на <a href='https://frognews.bg/files/57_aismo_na_al_aalinov_do_a_alateva_s_prilozheno_ap_240411_105723.pdf' target='_blank'>целия договор</a> до 31 декември 2035 г. <a href='https://frognews.bg/files/57_aismo_na_al_aalinov_do_a_alateva_s_prilozheno_ap_240411_105723.pdf' target='_blank'>(FrogNews.bg, 2024)</a>",
-        "Защо тогава е подписан с такива неизгодни условия и такава продължителност?"
+      "Договорът с <a href=\"https://www.botas.gov.tr/pages/turkstream/395\" target=\"_blank\">\"Боташ\" (BOTAŞ)</a>, е подписан от кабинета на Румен Радев, посредством служебния министър на енергетиката <a href=\"https://dariknews.bg/novini/bylgariia/koj-e-rosen-hristov-sluzheben-ministyr-na-energetikata-2319653\" target=\"_blank\">Росен Христов</a> и главното действащо лице в проекта <a href=\"https://www.dnevnik.bg/politika/2024/04/05/4610466_koi_e_vladimir_malinov_predlojen_za_ministur_na/\" target=\"_blank\">Владимир Малинов</a>. Условията ни принуждават от 1 януари 2023 г. да заплащаме по повече от <b>890 хиляди лева всеки ден</b> за възможност за доставки на течен природен газ, независимо дали използваме тръбата.",
+      "До сега, България не внася никакви количества по тръбите. Неустойките за разтрогването на този договор са равностойността на <a href='https://frognews.bg/files/57_aismo_na_al_aalinov_do_a_alateva_s_prilozheno_ap_240411_105723.pdf' target='_blank'>целия договор</a> до 31 декември 2035 г. <a href='https://frognews.bg/files/57_aismo_na_al_aalinov_do_a_alateva_s_prilozheno_ap_240411_105723.pdf' target='_blank'>(FrogNews.bg, 2024)</a>",
+      "Защо тогава е подписан с такива неизгодни условия и такава продължителност?"
     ],
     "references": [
-        "https://www.botas.gov.tr/pages/turkstream/395",
-        "https://dariknews.bg/novini/bylgariia/koj-e-rosen-hristov-sluzheben-ministyr-na-energetikata-2319653",
-        "https://www.dnevnik.bg/politika/2024/04/05/4610466_koi_e_vladimir_malinov_predlojen_za_ministur_na/",
-        "https://frognews.bg/files/57_aismo_na_al_aalinov_do_a_alateva_s_prilozheno_ap_240411_105723.pdf",
-        "https://buy-huy.com/",
-        "https://boulevardbulgaria.bg/articles/gazoviyat-dogovor-s-botash-ima-li-problem-i-kade-e-toy",
-        "https://www.capital.bg/biznes/energetika/2023/07/28/4511819_bulgariia_shte_plati_38_mlrd_lv_na_turciia_po_gazovata/",
-        "https://www.youtube.com/watch?v=PKw32LXf_Q0"
+      "https://www.botas.gov.tr/pages/turkstream/395",
+      "https://dariknews.bg/novini/bylgariia/koj-e-rosen-hristov-sluzheben-ministyr-na-energetikata-2319653",
+      "https://www.dnevnik.bg/politika/2024/04/05/4610466_koi_e_vladimir_malinov_predlojen_za_ministur_na/",
+      "https://frognews.bg/files/57_aismo_na_al_aalinov_do_a_alateva_s_prilozheno_ap_240411_105723.pdf",
+      "https://buy-huy.com/",
+      "https://boulevardbulgaria.bg/articles/gazoviyat-dogovor-s-botash-ima-li-problem-i-kade-e-toy",
+      "https://www.capital.bg/biznes/energetika/2023/07/28/4511819_bulgariia_shte_plati_38_mlrd_lv_na_turciia_po_gazovata/",
+      "https://www.youtube.com/watch?v=PKw32LXf_Q0"
     ],
     "amount": 0,
     "amountPerDay": 965464.02,
@@ -59,15 +116,15 @@
     "title": "Неизпълнение по втори транш на ПВУ заради ГЕРБ и ДПС",
     "tooltip": "Пропусната сума по втори транш на Плана за възстановяване и устойчивост от ЕС",
     "description": [
-        "България не можа да получи <b>сумата отделена за нас по втория транш</b> свързан с <a href=\"https://www.mlsp.government.bg/natsionalen-plan-za-vzstanovyavane\" target=\"_blank\"> Националния план за възстановяване и устойчивост (ПВУ) на Република България</a>. Този транш беше част от помощ на <b>обща стойност от близо 11,13 милиарда лева</b>. Това са пари които България не трябваше да връща. <a href=\"https://nova.bg/news/view/2024/10/08/472759/%D0%BF%D0%B0%D1%80%D0%B8%D1%82%D0%B5-%D0%BF%D0%BE-%D0%BF%D0%BB%D0%B0%D0%BD%D0%B0-%D0%B7%D0%B0-%D0%B2%D1%8A%D0%B7%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D1%8F%D0%B2%D0%B0%D0%BD%D0%B5-%D0%B8-%D1%83%D1%81%D1%82%D0%BE%D0%B9%D1%87%D0%B8%D0%B2%D0%BE%D1%81%D1%82-%D0%BA%D0%BE%D0%BB%D0%BA%D0%BE-%D1%81%D1%80%D0%B5%D0%B4%D1%81%D1%82%D0%B2%D0%B0-%D0%BC%D0%BE%D0%B6%D0%B5-%D0%B4%D0%B0-%D0%B8%D0%B7%D0%B3%D1%83%D0%B1%D0%B8%D0%BC\">(Нова телевизия, 2024)</a>",
-        "Условие за получаване на средствата по този план до 30 септември 2024 беше България <a href=\"https://www.bgonair.bg/a/2-bulgaria/343001-gubim-13-mlrd-lv-ako-ns-ne-prieme-speshno-4-zakonodatelni-merki-po-pvu\" target=\"_blank\"> да приеме четири закона</a>, един от които е Закон за защита на лицата, подаващи сигнали за нарушения.",
-        "В 49-тото Народно Събрание ГЕРБ и ДПС включиха клауза, която ограничава действието на защитата за казуси преди 2021 г. Цел на ГЕРБ и ДПС е изключването на периода на тяхното управление. Проектът е върнат от Европейската Комисия заради тази дискриминационна клауза и парите по плана бяха замразени. ГЕРБ и ДПС, като партиите притежаващи мнозинство в Народното Събрание трябваше да премахнат ограничението в годините, което те саботираха."
+      "България не можа да получи <b>сумата отделена за нас по втория транш</b> свързан с <a href=\"https://www.mlsp.government.bg/natsionalen-plan-za-vzstanovyavane\" target=\"_blank\"> Националния план за възстановяване и устойчивост (ПВУ) на Република България</a>. Този транш беше част от помощ на <b>обща стойност от близо 11,13 милиарда лева</b>. Това са пари които България не трябваше да връща. <a href=\"https://nova.bg/news/view/2024/10/08/472759/%D0%BF%D0%B0%D1%80%D0%B8%D1%82%D0%B5-%D0%BF%D0%BE-%D0%BF%D0%BB%D0%B0%D0%BD%D0%B0-%D0%B7%D0%B0-%D0%B2%D1%8A%D0%B7%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D1%8F%D0%B2%D0%B0%D0%BD%D0%B5-%D0%B8-%D1%83%D1%81%D1%82%D0%BE%D0%B9%D1%87%D0%B8%D0%B2%D0%BE%D1%81%D1%82-%D0%BA%D0%BE%D0%BB%D0%BA%D0%BE-%D1%81%D1%80%D0%B5%D0%B4%D1%81%D1%82%D0%B2%D0%B0-%D0%BC%D0%BE%D0%B6%D0%B5-%D0%B4%D0%B0-%D0%B8%D0%B7%D0%B3%D1%83%D0%B1%D0%B8%D0%BC\">(Нова телевизия, 2024)</a>",
+      "Условие за получаване на средствата по този план до 30 септември 2024 беше България <a href=\"https://www.bgonair.bg/a/2-bulgaria/343001-gubim-13-mlrd-lv-ako-ns-ne-prieme-speshno-4-zakonodatelni-merki-po-pvu\" target=\"_blank\"> да приеме четири закона</a>, един от които е Закон за защита на лицата, подаващи сигнали за нарушения.",
+      "В 49-тото Народно Събрание ГЕРБ и ДПС включиха клауза, която ограничава действието на защитата за казуси преди 2021 г. Цел на ГЕРБ и ДПС е изключването на периода на тяхното управление. Проектът е върнат от Европейската Комисия заради тази дискриминационна клауза и парите по плана бяха замразени. ГЕРБ и ДПС, като партиите притежаващи мнозинство в Народното Събрание трябваше да премахнат ограничението в годините, което те саботираха."
     ],
-    "references":[
-        "https://www.mlsp.government.bg/natsionalen-plan-za-vzstanovyavane",
-        "https://nova.bg/news/view/2024/10/08/472759/%D0%BF%D0%B0%D1%80%D0%B8%D1%82%D0%B5-%D0%BF%D0%BE-%D0%BF%D0%BB%D0%B0%D0%BD%D0%B0-%D0%B7%D0%B0-%D0%B2%D1%8A%D0%B7%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D1%8F%D0%B2%D0%B0%D0%BD%D0%B5-%D0%B8-%D1%83%D1%81%D1%82%D0%BE%D0%B9%D1%87%D0%B8%D0%B2%D0%BE%D1%81%D1%82-%D0%BA%D0%BE%D0%BB%D0%BA%D0%BE-%D1%81%D1%80%D0%B5%D0%B4%D1%81%D1%82%D0%B2%D0%B0-%D0%BC%D0%BE%D0%B6%D0%B5-%D0%B4%D0%B0-%D0%B8%D0%B7%D0%B3%D1%83%D0%B1%D0%B8%D0%BC",
-        "https://www.bgonair.bg/a/2-bulgaria/343001-gubim-13-mlrd-lv-ako-ns-ne-prieme-speshno-4-zakonodatelni-merki-po-pvu",
-        "https://m.dnevnik.bg/evropa/2024/11/29/4710243_znachitelna_zaguba_evrokomisiiata_reshi_da_spre_parite/"
+    "references": [
+      "https://www.mlsp.government.bg/natsionalen-plan-za-vzstanovyavane",
+      "https://nova.bg/news/view/2024/10/08/472759/%D0%BF%D0%B0%D1%80%D0%B8%D1%82%D0%B5-%D0%BF%D0%BE-%D0%BF%D0%BB%D0%B0%D0%BD%D0%B0-%D0%B7%D0%B0-%D0%B2%D1%8A%D0%B7%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D1%8F%D0%B2%D0%B0%D0%BD%D0%B5-%D0%B8-%D1%83%D1%81%D1%82%D0%BE%D0%B9%D1%87%D0%B8%D0%B2%D0%BE%D1%81%D1%82-%D0%BA%D0%BE%D0%BB%D0%BA%D0%BE-%D1%81%D1%80%D0%B5%D0%B4%D1%81%D1%82%D0%B2%D0%B0-%D0%BC%D0%BE%D0%B6%D0%B5-%D0%B4%D0%B0-%D0%B8%D0%B7%D0%B3%D1%83%D0%B1%D0%B8%D0%BC",
+      "https://www.bgonair.bg/a/2-bulgaria/343001-gubim-13-mlrd-lv-ako-ns-ne-prieme-speshno-4-zakonodatelni-merki-po-pvu",
+      "https://m.dnevnik.bg/evropa/2024/11/29/4710243_znachitelna_zaguba_evrokomisiiata_reshi_da_spre_parite/"
     ],
     "amount": 1277156990,
     "amountPerDay": 0,
@@ -110,9 +167,9 @@
       "Защо сме платили такава грандиозна сума за поток, който не служи на България, а всъщност я лимитира да трябва да използва газ само от един доставчик?"
     ],
     "references": [
-        "https://www.svobodnaevropa.bg/a/31306667.html",
-        "https://www.svobodnaevropa.bg/a/31306667.html#:~:text=%D1%82%D1%80%D0%B8%20%D1%81%D0%B5%D1%80%D0%B8%D0%BE%D0%B7%D0%BD%D0%B8%20%D0%BF%D1%80%D0%BE%D0%B1%D0%BB%D0%B5%D0%BC%D0%B0",
-        "https://turkstream.exposed/bg"
+      "https://www.svobodnaevropa.bg/a/31306667.html",
+      "https://www.svobodnaevropa.bg/a/31306667.html#:~:text=%D1%82%D1%80%D0%B8%20%D1%81%D0%B5%D1%80%D0%B8%D0%BE%D0%B7%D0%BD%D0%B8%20%D0%BF%D1%80%D0%BE%D0%B1%D0%BB%D0%B5%D0%BC%D0%B0",
+      "https://turkstream.exposed/bg"
     ],
     "amount": 3000000000,
     "amountPerDay": 0,
@@ -153,9 +210,9 @@
       "В последния работен ден на 50-тото Народното събрание (26 септември 2024), народните представители на ИТН и Възраждане, с помощта на Делян Пеевски (ДПС - Ново начало) и Рая Назарян (ГЕРБ), <a href=\"https://www.dnevnik.bg/politika/2024/09/26/4681199_budeshteto_na_vuglishtnite_centrali_dovede_do/860d1d25b9ce770486b4fb9529ddf17d/\" target=\"_blank\">блокираха подиума и провалиха работата на парламента</a>. Това попречи на приемането на изключително важно решение, което щеше да освободи <a href=\"https://www.mi.government.bg/news/balgariya-sthe-poluchi-nad-480-mln-evro-ot-plana-repowereu-za-nova-energijna-infrastruktura/\" target=\"_blank\">479 милиона Euro безвъзмездна сума</a> от ЕС по <a href=\"https://commission.europa.eu/strategy-and-policy/priorities-2019-2024/european-green-deal/repowereu-affordable-secure-and-sustainable-energy-europe_en?prefLang=bg\" target=\"_blank\">програмата REPowerEU</a>."
     ],
     "references": [
-        "https://www.dnevnik.bg/politika/2024/09/26/4681199_budeshteto_na_vuglishtnite_centrali_dovede_do/860d1d25b9ce770486b4fb9529ddf17d",
-        "https://www.mi.government.bg/news/balgariya-sthe-poluchi-nad-480-mln-evro-ot-plana-repowereu-za-nova-energijna-infrastruktura/",
-        "https://commission.europa.eu/strategy-and-policy/priorities-2019-2024/european-green-deal/repowereu-affordable-secure-and-sustainable-energy-europe_en?prefLang=bg"
+      "https://www.dnevnik.bg/politika/2024/09/26/4681199_budeshteto_na_vuglishtnite_centrali_dovede_do/860d1d25b9ce770486b4fb9529ddf17d",
+      "https://www.mi.government.bg/news/balgariya-sthe-poluchi-nad-480-mln-evro-ot-plana-repowereu-za-nova-energijna-infrastruktura/",
+      "https://commission.europa.eu/strategy-and-policy/priorities-2019-2024/european-green-deal/repowereu-affordable-secure-and-sustainable-energy-europe_en?prefLang=bg"
     ],
     "amount": 936842570,
     "amountPerDay": 0,
