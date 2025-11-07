@@ -1,7 +1,7 @@
 [
   {
     "title": "Осъждания срещу българската прокуратура за нарушения на правата на човека",
-    "tooltip": "Сумата която България е платила след осъждания на Прокурата в Европейския съд по правата на човека",
+    "tooltip": "Сумата която България е платила след осъждания на Прокурата в Европейския съд по правата на човека от 2019 година насам",
     "description": [
       "Всяка година България бива осъждана от <a href=\"https://www.echr.coe.int/Pages/home.aspx?p=home\" target=\"_blank\">Европейския съд по правата на човека</a> заради нарушения на основни човешки права от страна на прокуратурата и съдебната система. Това са пари които отиват директно от джоба на всеки българин, заради несправедливи процеси, липса на справедливост и корупция в съдебната система.",
       "За последните 5 години, България е била осъдена над 30 пъти, като общата сума на наложените глоби надхвърля 3,8 милиона лева. За съжаление, това не включва случаите които все още са в процес на разглеждане или са били уредени извън съда. Случаи като този на кмета на Варна Благомир Коцев също ще добави към тази сума в бъдеще.",
@@ -22,6 +22,12 @@
     "currency": "лева",
     "startDate": "2019-01-01",
     "calculatedItems": [
+      {
+        "currency": "EUR",
+        "description": "",
+        "costPerItem": 1.95583,
+        "itemCount": 0
+      },
       {
         "currency": "безплатни лекарства",
         "description": "за сърдечно-съдови заболявания",
@@ -46,12 +52,6 @@
         "description": "от джоба на всеки българин (дете, възрастен, баба и дядо)",
         "costPerItem": 0,
         "itemCount": 6519789
-      },
-      {
-        "currency": "EUR",
-        "description": "",
-        "costPerItem": 1.95583,
-        "itemCount": 0
       }
     ]
   },
@@ -79,6 +79,12 @@
     "startDate": "2023-01-01",
     "calculatedItems": [
       {
+        "currency": "EUR",
+        "description": "",
+        "costPerItem": 1.95583,
+        "itemCount": 0
+      },
+      {
         "currency": "безплатни лекарства",
         "description": "за сърдечно-съдови заболявания",
         "costPerItem": 17.5,
@@ -102,12 +108,6 @@
         "description": "от джоба на всеки българин (дете, възрастен, баба и дядо)",
         "costPerItem": 0,
         "itemCount": 6519789
-      },
-      {
-        "currency": "EUR",
-        "description": "",
-        "costPerItem": 1.95583,
-        "itemCount": 0
       }
     ]
   },
@@ -131,6 +131,12 @@
     "startDate": "",
     "calculatedItems": [
       {
+        "currency": "EUR",
+        "description": "",
+        "costPerItem": 1.95583,
+        "itemCount": 0
+      },
+      {
         "currency": "годишни абонамента",
         "description": "за мобилни услуги за пенсионери",
         "costPerItem": 120,
@@ -148,12 +154,6 @@
         "description": "от джоба на всеки българин",
         "costPerItem": 0,
         "itemCount": 6519789
-      },
-      {
-        "currency": "EUR",
-        "description": "",
-        "costPerItem": 1.95583,
-        "itemCount": 0
       }
     ]
   },
@@ -176,6 +176,12 @@
     "startDate": "",
     "calculatedItems": [
       {
+        "currency": "EUR",
+        "description": "",
+        "costPerItem": 1.95583,
+        "itemCount": 0
+      },
+      {
         "currency": "комплекта",
         "description": "за измерване на кръвна захар на деца",
         "costPerItem": 307,
@@ -193,12 +199,6 @@
         "description": "от джоба на всеки българин",
         "costPerItem": 0,
         "itemCount": 6519789
-      },
-      {
-        "currency": "EUR",
-        "description": "",
-        "costPerItem": 1.95583,
-        "itemCount": 0
       }
     ]
   },
@@ -218,6 +218,12 @@
     "currency": "лева",
     "startDate": "",
     "calculatedItems": [
+      {
+        "currency": "EUR",
+        "description": "",
+        "costPerItem": 1.95583,
+        "itemCount": 0
+      },
       {
         "currency": "киловата",
         "description": "фотоволтаични системи за зелена енергия",
@@ -242,12 +248,6 @@
         "description": "от джоба на всеки българин",
         "costPerItem": 0,
         "itemCount": 6519789
-      },
-      {
-        "currency": "EUR",
-        "description": "",
-        "costPerItem": 1.95583,
-        "itemCount": 0
       }
     ]
   }
