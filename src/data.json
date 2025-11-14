@@ -1,5 +1,58 @@
 [
   {
+    "title": "Държавни заеми изхарчени от Българското правителство през 2025 година",
+    "tooltip": "Сумата на изхарчените държавните заеми взети от ГЕРБ (НН) през 2025 година",
+    "description": [
+      "През 2025 г. правителството на ГЕРБ (Ново Начало), ИТН, и БСП, ръководено от Росен Желязков и финансовия министър Теменужка Петкова взе нови държавни заеми на стойност над 17 милиарда лева. Това са много над взетите за последните три години взети заедно.",
+      "През тази година кабинетът 'Желязков' предприе стратегия, с която да намали счетоводно бюджетния дефицит, залагайки 7 млрд. лв. за капитализация на Българската банка за развитие (ББР), Българския енергиен холдинг (БЕХ) и други държавни дружества.",
+      "В предложението за бюджет за 2026, тези пари се увеличават на близо 20 милиарда лева, което означава че освен 2900 лева за тази година, всеки българин ще плати през следващата година по още 3050 лева, без да се смятат дължимите лихви.",
+      "Много финансови експерти и икономисти изразиха загриженост относно размера на новите заеми и тяхното въздействие върху дългосрочната финансова стабилност на страната, тъй като тези заеми не водят до увеличение на производство, ефективност или оптимизация на дейности. Те са използвани по много непрозрачен начин, а именно през ББР, БЕХ и други държавни предприятия."
+    ],
+    "references": [
+      "https://www.economic.bg/bg/a/view/sled-porednija-300-milionen-zaem-dyrjavnijat-dylg-nadhvyrli-17-mlrd-lv",
+      "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=233694",
+      "https://www.dnevnik.bg/burzi-novini/2025/11/13/4851443_burzi_novini_13_noemvri/#4852015",
+      "https://www.minfin.bg/bg/1648"
+    ],
+    "amount": 0,
+    "amountPerDay": 54000000,
+    "currency": "лева",
+    "startDate": "2025-01-01",
+    "calculatedItems": [
+      {
+        "currency": "EUR",
+        "description": "",
+        "costPerItem": 1.95583,
+        "itemCount": 0
+      },
+      {
+        "amount": 0,
+        "currency": "лева",
+        "description": "от джоба на всеки българин (дете, възрастен, баба и дядо)",
+        "costPerItem": 0,
+        "itemCount": 6519789
+      },
+      {
+        "currency": "лева",
+        "description": "за половин милион пенсионери на минимална пенсия",
+        "costPerItem": 0,
+        "itemCount": 500000
+      },
+      {
+        "currency": "безплатни лекарства",
+        "description": "за сърдечно-съдови заболявания",
+        "costPerItem": 17.5,
+        "itemCount": 0
+      },
+      {
+        "currency": "кв.м.",
+        "description": "нови тротоари",
+        "costPerItem": 37,
+        "itemCount": 0
+      }
+    ]
+  },
+  {
     "title": "Осъждания срещу българската прокуратура за нарушения на правата на човека",
     "tooltip": "Сумата която България е платила след осъждания на Прокурата в Европейския съд по правата на човека от 2019 година насам",
     "description": [
@@ -15,7 +68,8 @@
       "https://bgnovinite.bg/2023/08/17/izplashtane-na-obezshtetenia-po-reshenia-na-evropeiski-sud-po-pravata-na-shoveka/",
       "https://www.dnevnik.bg/bulgaria/2017/02/20/2921051_prokuraturata_e_izplatila_nad_7_mln_lv_obezshteteniia/",
       "https://pris.government.bg/document/53c2397e8f805ad25fa7fa41f03c3d2c",
-      "https://pris.government.bg/document/53c2397e8f805ad25fa7fa41f03c3d2c/f08c02d28261a559bf1fbde87a978779"
+      "https://pris.government.bg/document/53c2397e8f805ad25fa7fa41f03c3d2c/f08c02d28261a559bf1fbde87a978779",
+      "https://www.economic.bg/bg/a/view/dnes-bylgarija-ochakva-vtoro-plashtane-po-plana-za-vyzstanovjavane"
     ],
     "amount": 0,
     "amountPerDay": 1743.3899543379,
