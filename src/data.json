@@ -34,9 +34,9 @@
       },
       {
         "currency": "лева",
-        "description": "за половин милион пенсионери на минимална пенсия",
+        "description": "за всеки пенсионер",
         "costPerItem": 0,
-        "itemCount": 500000
+        "itemCount": 2054848
       },
       {
         "currency": "безплатни лекарства",
@@ -48,6 +48,12 @@
         "currency": "кв.м.",
         "description": "нови тротоари",
         "costPerItem": 37,
+        "itemCount": 0
+      },
+      {
+        "currency": "км.",
+        "description": "магистрали",
+        "costPerItem": 170000000,
         "itemCount": 0
       }
     ]
