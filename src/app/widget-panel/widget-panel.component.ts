@@ -1,11 +1,12 @@
 import { Component, Input, OnInit } from '@angular/core';
 import { CommonModule } from '@angular/common';
 import { IWidgetPanel } from '../widget';
+import { NumberToWordsBgPipe } from '../number-to-words-bg.pipe';
 
 @Component({
     selector: 'app-widget-panel',
     standalone: true,
-    imports: [CommonModule],
+    imports: [CommonModule, NumberToWordsBgPipe],
     templateUrl: './widget-panel.component.html',
 })
 export class WidgetPanelComponent implements OnInit {

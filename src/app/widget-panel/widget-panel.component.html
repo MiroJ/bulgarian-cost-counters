@@ -6,6 +6,7 @@
         <span class="tooltip-text">{{data.tooltip}}</span>
     </div>
     <div class="amount-list flex-grow-1">
+        <div class="amount-words ellipsis">{{data.amount | numberToWordsBg:data.currency}}</div>
         <h3 [hidden]="isCollapsed">Това се равнява на</h3>
         <ul>
             <li *ngFor="let item of data.calculatedItems">
