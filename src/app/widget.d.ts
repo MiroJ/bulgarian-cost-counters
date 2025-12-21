@@ -6,6 +6,7 @@ export interface IWidgetPanel {
     amountPerDay: number; // 0 if static
     currency: string;
     startDate: Date;
+    endDate?: Date;
     calculatedItems: IWidgetCalculatedItem[];
     references: string[];
 }

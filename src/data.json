@@ -18,6 +18,7 @@
     "amountPerDay": 54000000,
     "currency": "лева",
     "startDate": "2025-01-01",
+    "endDate": "2025-12-31",
     "calculatedItems": [
       {
         "currency": "EUR",
@@ -81,6 +82,7 @@
     "amountPerDay": 1743.3899543379,
     "currency": "лева",
     "startDate": "2019-01-01",
+    "endDate": "",
     "calculatedItems": [
       {
         "currency": "EUR",
@@ -124,6 +126,7 @@
     "amountPerDay": 965464.02,
     "currency": "лева",
     "startDate": "2023-01-01",
+    "endDate": "",
     "calculatedItems": [
       {
         "currency": "EUR",
@@ -178,6 +181,7 @@
     "amountPerDay": 0,
     "currency": "лева",
     "startDate": "",
+    "endDate": "",
     "calculatedItems": [
       {
         "currency": "EUR",
@@ -223,6 +227,7 @@
     "amountPerDay": 0,
     "currency": "лева",
     "startDate": "",
+    "endDate": "",
     "calculatedItems": [
       {
         "currency": "EUR",
@@ -266,6 +271,7 @@
     "amountPerDay": 0,
     "currency": "лева",
     "startDate": "",
+    "endDate": "",
     "calculatedItems": [
       {
         "currency": "EUR",

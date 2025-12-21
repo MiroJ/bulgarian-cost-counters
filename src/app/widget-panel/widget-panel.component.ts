@@ -30,7 +30,9 @@ export class WidgetPanelComponent implements OnInit {
 
     private calculateAllItems(): void {
         const now = new Date();
-        const elapsedDays = Math.abs(now.getTime() - this.data.startDate.getTime()) / (1000 * 60 * 60 * 24);
+        const endDate = this.data.endDate ? new Date(this.data.endDate) : now;
+        const lastDate = endDate && endDate < now ? endDate : now;
+        const elapsedDays = Math.abs(lastDate.getTime() - this.data.startDate.getTime()) / (1000 * 60 * 60 * 24);
         // Calculate the current amount
         this.data.amount = this.calculateCurrentAmount(elapsedDays, 1, 0);
         // Calculate numbers for each child item
