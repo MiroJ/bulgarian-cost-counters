@@ -13,7 +13,7 @@ export class WidgetPanelComponent implements OnInit {
     @Input() data!: IWidgetPanel;
     @Input() isCollapsed = false;
 
-    public expanded = false;
+    public expanded = true;
 
     ngOnInit(): void {
         if (this.data.startDate) {
