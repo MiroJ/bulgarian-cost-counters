@@ -1,9 +1,120 @@
 [
   {
-    "title": "Държавни заеми изхарчени от Българското правителство през 2025 година",
+    "title": "Договор на Румен Радев и Владимир Малиновс с Боташ",
+    "tooltip": "Сумата която България е платила по договора с Боташ до този момент",
+    "description": [
+      "Договорът с <a href=\"https://www.botas.gov.tr/pages/turkstream/395\" target=\"_blank\">\"Боташ\" (BOTAŞ)</a>, е подписан от кабинета на Румен Радев, посредством служебния министър на енергетиката <a href=\"https://dariknews.bg/novini/bylgariia/koj-e-rosen-hristov-sluzheben-ministyr-na-energetikata-2319653\" target=\"_blank\">Росен Христов</a> и главното действащо лице в проекта <a href=\"https://www.dnevnik.bg/politika/2024/04/05/4610466_koi_e_vladimir_malinov_predlojen_za_ministur_na/\" target=\"_blank\">Владимир Малинов</a>. Условията ни принуждават от 1 януари 2023 г. да заплащаме по повече от <b>890 хиляди лева всеки ден</b> за възможност за доставки на течен природен газ, независимо дали използваме тръбата.",
+      "Досега, България не внася никакви количества по тръбите. Неустойките за разтрогването на този договор са равностойността на <a href='https://frognews.bg/files/57_aismo_na_al_aalinov_do_a_alateva_s_prilozheno_ap_240411_105723.pdf' target='_blank'>целия договор</a> до 31 декември 2035 г. <a href='https://frognews.bg/files/57_aismo_na_al_aalinov_do_a_alateva_s_prilozheno_ap_240411_105723.pdf' target='_blank'>(FrogNews.bg, 2024)</a>",
+      "Защо тогава е подписан с такива неизгодни условия и такава продължителност?"
+    ],
+    "references": [
+      "https://www.botas.gov.tr/pages/turkstream/395",
+      "https://dariknews.bg/novini/bylgariia/koj-e-rosen-hristov-sluzheben-ministyr-na-energetikata-2319653",
+      "https://www.dnevnik.bg/politika/2024/04/05/4610466_koi_e_vladimir_malinov_predlojen_za_ministur_na/",
+      "https://frognews.bg/files/57_aismo_na_al_aalinov_do_a_alateva_s_prilozheno_ap_240411_105723.pdf",
+      "https://buy-huy.com/",
+      "https://boulevardbulgaria.bg/articles/gazoviyat-dogovor-s-botash-ima-li-problem-i-kade-e-toy",
+      "https://www.capital.bg/biznes/energetika/2023/07/28/4511819_bulgariia_shte_plati_38_mlrd_lv_na_turciia_po_gazovata/",
+      "https://www.youtube.com/watch?v=PKw32LXf_Q0"
+    ],
+    "amount": 0,
+    "amountPerDay": 493633.92,
+    "currency": "EUR",
+    "startDate": "2023-01-01",
+    "endDate": "",
+    "calculatedItems": [
+      {
+        "currency": "лева",
+        "description": "",
+        "costPerItem": 0.51129188,
+        "itemCount": 0
+      },
+      {
+        "currency": "безплатни лекарства",
+        "description": "за сърдечно-съдови заболявания",
+        "costPerItem": 8.95,
+        "itemCount": 0
+      },
+      {
+        "currency": "кв.м.",
+        "description": "нови тротоари",
+        "costPerItem": 18.92,
+        "itemCount": 0
+      },
+      {
+        "currency": "евро",
+        "description": "за половин милион пенсионери на минимална пенсия",
+        "costPerItem": 0,
+        "itemCount": 500000
+      },
+      {
+        "amount": 0,
+        "currency": "евро",
+        "description": "от джоба на всеки българин (дете, възрастен, баба и дядо)",
+        "costPerItem": 0,
+        "itemCount": 6519789
+      }
+    ]
+  },
+  {
+    "title": "Губим милиони от ПВУ заради депутатите на ГЕРБ, Възраждане и ДПС-НН",
+    "tooltip": "Сумата която България е платила по договора с Боташ до този момент",
+    "description": [
+      "Поради факта, че ГЕРБ, Възраждане и ДПС-НН не се появиха на парламентарна комисия за разглеждане на проектозакон свързан с възобновяеми източници. Това доведе до изтичане на срокът, по който България можеше да кандидатства за 437 милиона евро от Плана за възстановяване и устойчивост (ПВУ) по програмата REPowerEU.",
+      "Промените в законопроекта за енергия от възобновяеми източници са сред задачите на България по европейския план за възстановяване и устойчивост, по който страната изостава сериозно. Средствата, които страната може да получи, според написаното от Трайчо Трайков, са 437 млн. евро.",
+      "Това е огромна сума, която можеше да бъде използвана за подобряване на енергийната инфраструктура, намаляване на зависимостта от изкопаеми горива и инвестиции в зелена енергия.",
+      "Проектът е внесен от министърът на енергетиката на ГЕРБ от правителството на Росен Желязков, а те самите блокират всяко решение, което би могло да доведе до получаване на парите и подобряване на енергийната независимост на България. Това е поредният пример за това как политическите интереси на тези партии надделяват над националния интерес и вредят на всички нас - гражданите на България."
+    ],
+    "references": [
+        "https://www.youtube.com/shorts/bxA8YbMmeSw",
+        "https://www.dnevnik.bg/burzi-novini/2026/03/12/4891103_burzi_novini_12_mart/#4891451",
+        "https://www.dnevnik.bg/burzi-novini/2026/03/11/4890733_burzi_novini_11_mart/#4891242",
+        "https://www.dnevnik.bg/politika/2026/03/11/4891093_ima_takuv_narod_se_opulchi_na_traicho_traikov_i_zakona/"
+    ],
+    "amount": 437000000.0,
+    "amountPerDay": 0,
+    "currency": "EUR",
+    "startDate": "",
+    "endDate": "",
+    "calculatedItems": [
+      {
+        "currency": "лева",
+        "description": "",
+        "costPerItem": 0.51129188,
+        "itemCount": 0
+      },
+      {
+        "currency": "безплатни лекарства",
+        "description": "за сърдечно-съдови заболявания",
+        "costPerItem": 8.95,
+        "itemCount": 0
+      },
+      {
+        "currency": "кв.м.",
+        "description": "нови тротоари",
+        "costPerItem": 18.92,
+        "itemCount": 0
+      },
+      {
+        "currency": "евро",
+        "description": "за половин милион пенсионери на минимална пенсия",
+        "costPerItem": 0,
+        "itemCount": 500000
+      },
+      {
+        "amount": 0,
+        "currency": "евро",
+        "description": "от джоба на всеки българин (дете, възрастен, баба и дядо)",
+        "costPerItem": 0,
+        "itemCount": 6519789
+      }
+    ]
+  },
+  {
+    "title": "Държавни заеми изхарчени от правителство на Росен Желязков и Теменужка Петкова през 2025 година",
     "tooltip": "Сумата на изхарчените държавните заеми взети от ГЕРБ (НН) през 2025 година",
     "description": [
-      "През 2025 г. правителството на ГЕРБ (Ново Начало), ИТН, и БСП, ръководено от Росен Желязков и финансовия министър Теменужка Петкова взе нови държавни заеми на стойност над 17 милиарда лева. Това са много над взетите за последните три години взети заедно.",
+      "През 2025 г. правителството на ГЕРБ (Ново Начало), ИТН, и БСП, ръководено от Росен Желязков и финансовия министър Теменужка Петкова взе нови държавни заеми на стойност над 17 милиарда лева. Това е много над сумата на взетите за последните три години заеми, взети заедно.",
       "През тази година кабинетът 'Желязков' предприе стратегия, с която да намали счетоводно бюджетния дефицит, залагайки 7 млрд. лв. за капитализация на Българската банка за развитие (ББР), Българския енергиен холдинг (БЕХ) и други държавни дружества.",
       "В предложението за бюджет за 2026, тези пари се увеличават на близо 20 милиарда лева, което означава че освен 2900 лева за тази година, всеки българин ще плати през следващата година по още 3050 лева, без да се смятат дължимите лихви.",
       "Много финансови експерти и икономисти изразиха загриженост относно размера на новите заеми и тяхното въздействие върху дългосрочната финансова стабилност на страната, тъй като тези заеми не водят до увеличение на производство, ефективност или оптимизация на дейности. Те са използвани по много непрозрачен начин, а именно през ББР, БЕХ и други държавни предприятия."
@@ -15,26 +126,26 @@
       "https://www.minfin.bg/bg/1648"
     ],
     "amount": 0,
-    "amountPerDay": 54000000,
-    "currency": "лева",
+    "amountPerDay": 27609761.58,
+    "currency": "EUR",
     "startDate": "2025-01-01",
     "endDate": "2025-12-31",
     "calculatedItems": [
       {
-        "currency": "EUR",
+        "currency": "лева",
         "description": "",
-        "costPerItem": 1.95583,
+        "costPerItem": 0.51129188,
         "itemCount": 0
       },
       {
         "amount": 0,
-        "currency": "лева",
+        "currency": "евро",
         "description": "от джоба на всеки българин (дете, възрастен, баба и дядо)",
         "costPerItem": 0,
         "itemCount": 6519789
       },
       {
-        "currency": "лева",
+        "currency": "евро",
         "description": "за всеки пенсионер",
         "costPerItem": 0,
         "itemCount": 2054848
@@ -42,19 +153,19 @@
       {
         "currency": "безплатни лекарства",
         "description": "за сърдечно-съдови заболявания",
-        "costPerItem": 17.5,
+        "costPerItem": 8.95,
         "itemCount": 0
       },
       {
         "currency": "кв.м.",
         "description": "нови тротоари",
-        "costPerItem": 37,
+        "costPerItem": 19.0,
         "itemCount": 0
       },
       {
         "currency": "км.",
         "description": "магистрали",
-        "costPerItem": 170000000,
+        "costPerItem": 86919619.8,
         "itemCount": 0
       }
     ]
@@ -79,85 +190,28 @@
       "https://www.economic.bg/bg/a/view/dnes-bylgarija-ochakva-vtoro-plashtane-po-plana-za-vyzstanovjavane"
     ],
     "amount": 0,
-    "amountPerDay": 1743.3899543379,
-    "currency": "лева",
+    "amountPerDay": 891.43,
+    "currency": "EUR",
     "startDate": "2019-01-01",
     "endDate": "",
     "calculatedItems": [
       {
-        "currency": "EUR",
+        "currency": "лева",
         "description": "",
-        "costPerItem": 1.95583,
+        "costPerItem": 0.51129188,
         "itemCount": 0
       },
       {
         "currency": "безплатни лекарства",
         "description": "за сърдечно-съдови заболявания",
-        "costPerItem": 17.5,
+        "costPerItem": 8.95,
         "itemCount": 0
       },
       {
         "currency": "кв.м.",
         "description": "нови тротоари",
-        "costPerItem": 37,
+        "costPerItem": 18.92,
         "itemCount": 0
-      }
-    ]
-  },
-  {
-    "title": "Договор на Румен Радев с Боташ",
-    "tooltip": "Сумата която България е платила по договора с Боташ до този момент",
-    "description": [
-      "Договорът с <a href=\"https://www.botas.gov.tr/pages/turkstream/395\" target=\"_blank\">\"Боташ\" (BOTAŞ)</a>, е подписан от кабинета на Румен Радев, посредством служебния министър на енергетиката <a href=\"https://dariknews.bg/novini/bylgariia/koj-e-rosen-hristov-sluzheben-ministyr-na-energetikata-2319653\" target=\"_blank\">Росен Христов</a> и главното действащо лице в проекта <a href=\"https://www.dnevnik.bg/politika/2024/04/05/4610466_koi_e_vladimir_malinov_predlojen_za_ministur_na/\" target=\"_blank\">Владимир Малинов</a>. Условията ни принуждават от 1 януари 2023 г. да заплащаме по повече от <b>890 хиляди лева всеки ден</b> за възможност за доставки на течен природен газ, независимо дали използваме тръбата.",
-      "До сега, България не внася никакви количества по тръбите. Неустойките за разтрогването на този договор са равностойността на <a href='https://frognews.bg/files/57_aismo_na_al_aalinov_do_a_alateva_s_prilozheno_ap_240411_105723.pdf' target='_blank'>целия договор</a> до 31 декември 2035 г. <a href='https://frognews.bg/files/57_aismo_na_al_aalinov_do_a_alateva_s_prilozheno_ap_240411_105723.pdf' target='_blank'>(FrogNews.bg, 2024)</a>",
-      "Защо тогава е подписан с такива неизгодни условия и такава продължителност?"
-    ],
-    "references": [
-      "https://www.botas.gov.tr/pages/turkstream/395",
-      "https://dariknews.bg/novini/bylgariia/koj-e-rosen-hristov-sluzheben-ministyr-na-energetikata-2319653",
-      "https://www.dnevnik.bg/politika/2024/04/05/4610466_koi_e_vladimir_malinov_predlojen_za_ministur_na/",
-      "https://frognews.bg/files/57_aismo_na_al_aalinov_do_a_alateva_s_prilozheno_ap_240411_105723.pdf",
-      "https://buy-huy.com/",
-      "https://boulevardbulgaria.bg/articles/gazoviyat-dogovor-s-botash-ima-li-problem-i-kade-e-toy",
-      "https://www.capital.bg/biznes/energetika/2023/07/28/4511819_bulgariia_shte_plati_38_mlrd_lv_na_turciia_po_gazovata/",
-      "https://www.youtube.com/watch?v=PKw32LXf_Q0"
-    ],
-    "amount": 0,
-    "amountPerDay": 965464.02,
-    "currency": "лева",
-    "startDate": "2023-01-01",
-    "endDate": "",
-    "calculatedItems": [
-      {
-        "currency": "EUR",
-        "description": "",
-        "costPerItem": 1.95583,
-        "itemCount": 0
-      },
-      {
-        "currency": "безплатни лекарства",
-        "description": "за сърдечно-съдови заболявания",
-        "costPerItem": 17.5,
-        "itemCount": 0
-      },
-      {
-        "currency": "кв.м.",
-        "description": "нови тротоари",
-        "costPerItem": 37,
-        "itemCount": 0
-      },
-      {
-        "currency": "лева",
-        "description": "за половин милион пенсионери на минимална пенсия",
-        "costPerItem": 0,
-        "itemCount": 500000
-      },
-      {
-        "amount": 0,
-        "currency": "лева",
-        "description": "от джоба на всеки българин (дете, възрастен, баба и дядо)",
-        "costPerItem": 0,
-        "itemCount": 6519789
       }
     ]
   },
@@ -177,33 +231,33 @@
       "https://www.dnevnik.bg/evropa/2025/11/11/4850787_brjuksel_izplati_4386_mln_evro_na_bulgariia_po_plana/?ref=middlestoryrelated",
       "https://www.dnevnik.bg/burzi-novini/2025/11/12/4850861_burzi_novini_12_noemvri/#4851248"
     ],
-    "amount": 2011457717,
+    "amount": 1028442000.0,
     "amountPerDay": 0,
-    "currency": "лева",
+    "currency": "EUR",
     "startDate": "",
     "endDate": "",
     "calculatedItems": [
       {
-        "currency": "EUR",
+        "currency": "лева",
         "description": "",
-        "costPerItem": 1.95583,
+        "costPerItem": 0.51129188,
         "itemCount": 0
       },
       {
         "currency": "годишни абонамента",
         "description": "за мобилни услуги за пенсионери",
-        "costPerItem": 120,
+        "costPerItem": 61.36,
         "itemCount": 0
       },
       {
-        "currency": "лева",
+        "currency": "евро",
         "description": "за половин милион пенсионери на минимална пенсия",
         "costPerItem": 0,
         "itemCount": 500000
       },
       {
         "amount": 0,
-        "currency": "лева",
+        "currency": "евро",
         "description": "от джоба на всеки българин",
         "costPerItem": 0,
         "itemCount": 6519789
@@ -214,42 +268,42 @@
     "title": "Изхарчени пари от Бойко Борисов по \"Турски поток\"",
     "tooltip": "Платена сума за изграждането на \"Турски поток\"",
     "description": [
-      "Националният бюджет, което всъчност са пари от джоба на всеки българин, е използван за изграждането на \"Турски поток\". Въпреки твърденията на Бойко Борисов, че <a href=\"https://www.svobodnaevropa.bg/a/31306667.html\" target=\"_blank\">това е добра инвестиция</a>, от самото начало е ясно че <b>проектът е нерентабилен</b>.",
-      "\"Турски поток\" е изграден и работи, <a href=\"https://turkstream.exposed/bg\" target=\"_blank\"> обслужвайки само външната политика на Русия и Турция </a>, а не на България. Той служи за две цели - осигуряване на транспорт на руски газ към Европа и скрити комисионните за избрани хора. Ние <a href=\"https://www.svobodnaevropa.bg/a/31306667.html#:~:text=%D1%82%D1%80%D0%B8%20%D1%81%D0%B5%D1%80%D0%B8%D0%BE%D0%B7%D0%BD%D0%B8%20%D0%BF%D1%80%D0%BE%D0%B1%D0%BB%D0%B5%D0%BC%D0%B0\" target=\"_blank\">не получаваме обещаните комисионни</a>, а Европа се опитва да намали зависимостта си от руския газ, което означава че обемите ще намаляват и дори спрат.",
-      "Защо сме платили такава грандиозна сума за поток, който не служи на България, а всъщност я лимитира да трябва да използва газ само от един доставчик?"
+      "Националният бюджет, което всъщност са пари от джоба на всеки българин, е използван за изграждането на \"Турски поток\". Въпреки твърденията на Бойко Борисов, че <a href=\"https://www.svobodnaevropa.bg/a/31306667.html\" target=\"_blank\">това е добра инвестиция</a>, от самото начало е ясно че <b>проектът е нерентабилен</b>.",
+      "\"Турски поток\" е изграден и работи, <a href=\"https://turkstream.exposed/bg\" target=\"_blank\"> обслужвайки само външната политика на Русия и Турция </a>, а не на България. Той служи за две цели - осигуряване на транспорт на руски газ към Европа и скриване на комисионните за избрани хора. Ние <a href=\"https://www.svobodnaevropa.bg/a/31306667.html#:~:text=%D1%82%D1%80%D0%B8%20%D1%81%D0%B5%D1%80%D0%B8%D0%BE%D0%B7%D0%BD%D0%B8%20%D0%BF%D1%80%D0%BE%D0%B1%D0%BB%D0%B5%D0%BC%D0%B0\" target=\"_blank\">не получаваме обещаните комисионни</a>, а Европа се опитва да намали зависимостта си от руския газ, което означава че обемите ще намаляват и дори спрат.",
+      "Защо сме платили такава грандиозна сума за поток, който не служи на България, а всъщност я ограничава да трябва да използва газ само от един доставчик?"
     ],
     "references": [
       "https://www.svobodnaevropa.bg/a/31306667.html",
       "https://www.svobodnaevropa.bg/a/31306667.html#:~:text=%D1%82%D1%80%D0%B8%20%D1%81%D0%B5%D1%80%D0%B8%D0%BE%D0%B7%D0%BD%D0%B8%20%D0%BF%D1%80%D0%BE%D0%B1%D0%BB%D0%B5%D0%BC%D0%B0",
       "https://turkstream.exposed/bg"
     ],
-    "amount": 3000000000,
+    "amount": 1533875644.0,
     "amountPerDay": 0,
-    "currency": "лева",
+    "currency": "EUR",
     "startDate": "",
     "endDate": "",
     "calculatedItems": [
       {
-        "currency": "EUR",
+        "currency": "лева",
         "description": "",
-        "costPerItem": 1.95583,
+        "costPerItem": 0.51129188,
         "itemCount": 0
       },
       {
         "currency": "комплекта",
         "description": "за измерване на кръвна захар на деца",
-        "costPerItem": 307,
+        "costPerItem": 156.99,
         "itemCount": 0
       },
       {
-        "currency": "лева",
+        "currency": "евро",
         "description": "за половин милион пенсионери на минимална пенсия",
         "costPerItem": 0,
         "itemCount": 500000
       },
       {
         "amount": 0,
-        "currency": "лева",
+        "currency": "евро",
         "description": "от джоба на всеки българин",
         "costPerItem": 0,
         "itemCount": 6519789
@@ -267,39 +321,39 @@
       "https://www.mi.government.bg/news/balgariya-sthe-poluchi-nad-480-mln-evro-ot-plana-repowereu-za-nova-energijna-infrastruktura/",
       "https://commission.europa.eu/strategy-and-policy/priorities-2019-2024/european-green-deal/repowereu-affordable-secure-and-sustainable-energy-europe_en?prefLang=bg"
     ],
-    "amount": 936842570,
+    "amount": 479000000.0,
     "amountPerDay": 0,
-    "currency": "лева",
+    "currency": "EUR",
     "startDate": "",
     "endDate": "",
     "calculatedItems": [
       {
-        "currency": "EUR",
+        "currency": "лева",
         "description": "",
-        "costPerItem": 1.95583,
+        "costPerItem": 0.51129188,
         "itemCount": 0
       },
       {
         "currency": "киловата",
         "description": "фотоволтаични системи за зелена енергия",
-        "costPerItem": 700,
+        "costPerItem": 357.87,
         "itemCount": 0
       },
       {
         "currency": "километра",
         "description": "\"Зелената магистрала\" за велосипедисти",
-        "costPerItem": 30000,
+        "costPerItem": 15341.25,
         "itemCount": 0
       },
       {
-        "currency": "лева",
+        "currency": "евро",
         "description": "за половин милион пенсионери на минимална пенсия",
         "costPerItem": 0,
         "itemCount": 500000
       },
       {
         "amount": 0,
-        "currency": "лева",
+        "currency": "евро",
         "description": "от джоба на всеки българин",
         "costPerItem": 0,
         "itemCount": 6519789
