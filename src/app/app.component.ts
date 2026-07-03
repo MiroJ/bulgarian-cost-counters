@@ -7,9 +7,8 @@ import * as data from '../data.json';
 
 @Component({
     selector: 'app-root',
-    standalone: true,
     imports: [RouterOutlet, CommonModule, WidgetPanelComponent],
-    templateUrl: './app.component.html',
+    templateUrl: './app.component.html'
 })
 export class AppComponent implements OnInit {
     public widgets!: IWidgetPanel[];

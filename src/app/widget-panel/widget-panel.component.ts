@@ -5,9 +5,8 @@ import { NumberToWordsBgPipe } from '../number-to-words-bg.pipe';
 
 @Component({
     selector: 'app-widget-panel',
-    standalone: true,
     imports: [CommonModule, NumberToWordsBgPipe],
-    templateUrl: './widget-panel.component.html',
+    templateUrl: './widget-panel.component.html'
 })
 export class WidgetPanelComponent implements OnInit {
     @Input() data!: IWidgetPanel;
