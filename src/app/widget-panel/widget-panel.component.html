@@ -1,33 +1,41 @@
 <h2>{{ data.title }}</h2>
 <div class="d-flex align-items-start flex-wrap">
-    <div class="counter hover-text">
-        <div class="d-flex justify-content-between">
-            <div>{{data.currency}}</div>
-            <strong>{{data.amount | number}}</strong>
-        </div>
-        <span class="tooltip-text">{{data.tooltip}}</span>
+  <div class="counter hover-text">
+    <div class="d-flex justify-content-between">
+      <div>{{data.currency}}</div>
+      <strong>{{data.amount | number}}</strong>
     </div>
-    <div class="amount-list flex-grow-1">
-        <div class="amount-words ellipsis">{{data.amount | numberToWordsBg:(data.currency === 'EUR' ? ' евро' : data.currency)}}</div>
-        <h3 [hidden]="isCollapsed">Това се равнява на</h3>
-        <ul>
-            <li *ngFor="let item of data.calculatedItems">
-                <strong>{{item.amount | number}} {{item.currency}}</strong>
-                <span> {{item.description}}</span>
-            </li>
-        </ul>
-    </div>
+    <span class="tooltip-text">{{data.tooltip}}</span>
+  </div>
+  <div class="amount-list flex-grow-1">
+    <div class="amount-words ellipsis">{{data.amount | numberToWordsBg:(data.currency === 'EUR' ? ' евро' : data.currency)}}</div>
+    <h3 [hidden]="isCollapsed">Това се равнява на</h3>
+    <ul>
+      @for (item of data.calculatedItems; track item) {
+        <li>
+          <strong>{{item.amount | number}} {{item.currency}}</strong>
+          <span> {{item.description}}</span>
+        </li>
+      }
+    </ul>
+  </div>
 </div>
 
 <div class="widget-description fade-in" [hidden]="isCollapsed">
-    <p *ngFor="let item of data.description" [innerHTML]="item"></p>
+  @for (item of data.description; track item) {
+    <p [innerHTML]="item"></p>
+  }
 </div>
-<div *ngIf="!expanded" class="clickable" style="margin-bottom: 4px;" (click)="expanded = !expanded">
+@if (!expanded) {
+  <div class="clickable" style="margin-bottom: 4px;" (click)="expanded = !expanded">
     Виж източниците на повече информация
-</div>
+  </div>
+}
 <div [hidden]="!expanded">
-    <h3>Източници</h3>
-    <div *ngFor="let r of data.references" class="no-wrap" style="font-size: 0.825rem;">
-        - <a href="{{r}}" target="_blank" class="ellipsis">{{r}}</a>
+  <h3>Източници</h3>
+  @for (r of data.references; track r) {
+    <div class="no-wrap" style="font-size: 0.825rem;">
+      - <a href="{{r}}" target="_blank" class="ellipsis">{{r}}</a>
     </div>
+  }
 </div>

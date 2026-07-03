@@ -1,4 +1,4 @@
-import { CommonModule } from '@angular/common';
+
 import { Component, OnInit } from '@angular/core';
 import { RouterOutlet } from '@angular/router';
 import { WidgetPanelComponent } from "./widget-panel/widget-panel.component";
@@ -7,7 +7,7 @@ import * as data from '../data.json';
 
 @Component({
     selector: 'app-root',
-    imports: [RouterOutlet, CommonModule, WidgetPanelComponent],
+    imports: [RouterOutlet, WidgetPanelComponent],
     templateUrl: './app.component.html'
 })
 export class AppComponent implements OnInit {
