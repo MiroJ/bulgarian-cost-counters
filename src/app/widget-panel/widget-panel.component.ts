@@ -1,4 +1,4 @@
-import { Component, Input, OnInit } from '@angular/core';
+import { Component, Input, OnInit, ChangeDetectionStrategy } from '@angular/core';
 import { CommonModule } from '@angular/common';
 import { IWidgetPanel } from '../widget';
 import { NumberToWordsBgPipe } from '../number-to-words-bg.pipe';
@@ -6,6 +6,7 @@ import { NumberToWordsBgPipe } from '../number-to-words-bg.pipe';
 @Component({
     selector: 'app-widget-panel',
     imports: [CommonModule, NumberToWordsBgPipe],
+    changeDetection: ChangeDetectionStrategy.Eager,
     templateUrl: './widget-panel.component.html'
 })
 export class WidgetPanelComponent implements OnInit {
